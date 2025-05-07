@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB1VotdoElytGJFpdvowL5Ox2BPu5jgvCk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>754002507495</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>SocialMediaApp</string>
+	<key>PROJECT_ID</key>
+	<string>socialmediaapp-3ba0d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>socialmediaapp-3ba0d.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:754002507495:ios:3e6340353d4c36b2dcd442</string>
+</dict>
+</plist>
